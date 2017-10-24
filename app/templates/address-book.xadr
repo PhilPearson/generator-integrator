@@ -1,0 +1,15 @@
+[Crestron_Toolbox_Address_Book]
+
+[Entries]
+This .xadr file was created using Toolbox v2.41 or later.=:slot 01
+It is not compatible with this version of Toolbox.=:slot 02
+Please open a .adr Address Book to continue.=:slot 03
+
+[AddressBookInfo]
+Schema=2.0
+Version=1.0
+
+[ComSpecs]
+
+[Notes]
+

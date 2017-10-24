@@ -1,0 +1,32 @@
+# Dont include compiled AMX code by default
+*.tkn
+*.tko
+
+# but you might want to keep some specific pre-compiled modules
+!CBus_Comm.tko
+
+# Dont include compiled code
+*_archive.zip
+*_compiled.zip
+
+# Dont include auto saves
+*.ASV
+
+# Dont include temporary files
+Source Code/Crestron/Source/SPlsWork
+*.sm2
+*.sgd2
+*.sgd_
+*.mdb
+*.um2
+
+# Dont include hash or smft files
+*.hash
+*.smft
+
+# Dont include compiled touchpanel files or the older core3 definitions
+*.vtz
+*.ced
+**/Crestron/User Interface/*/
+
+# Anything needing to be negated?

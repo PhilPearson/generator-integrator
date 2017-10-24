@@ -1,0 +1,27 @@
+{
+  "name": "generator-integrator",
+  "version": "1.0.0",
+  "description": "A Yeoman generator to quickly create your control system project folder structure",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "integrator",
+    "amx",
+    "crestron"
+  ],
+  "author": {
+    "name": "Phil Pearson",
+    "email": "filpee2@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhilPearson/generator-integrator.git"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^1.1.1"
+  }
+}
