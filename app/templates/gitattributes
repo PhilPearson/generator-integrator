@@ -104,3 +104,4 @@ AUTHORS text
 *.hash binary
 *.air binary
 *.c3p binary
+*.umc binary
