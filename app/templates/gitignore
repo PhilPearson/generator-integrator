@@ -28,5 +28,6 @@ Source Code/Crestron/Source/SPlsWork
 *.vtz
 *.ced
 **/Crestron/User Interface/*/
+**/*_VTP[0-9][0-9].vtp
 
 # Anything needing to be negated?
