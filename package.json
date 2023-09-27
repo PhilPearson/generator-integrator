@@ -21,7 +21,7 @@
   },
   "license": "UNLICENSED",
   "dependencies": {
-    "mkdirp": "^0.5.1",
-    "yeoman-generator": "^1.1.1"
+    "mkdirp": "^3.0.1",
+    "yeoman-generator": "^5.9.0"
   }
 }
